@@ -43,6 +43,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SirHenrique/SirHenrique/output/snake.svg" alt="Snake animation" />
+<p align="left">Since 2021 I have been working with IT, having knowledge of various technologies, I have knowledge in the front-end and back-end. I have the dream of becoming a great developer and participating in various projects that can improve people's lives, both directly and indirectly.</p>
 
 ###
